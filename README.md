@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Chemistry ⚗🧪 and game of go ⚫⚪**
 
-- 📫 How to reach me **guillaumebretel@gmail.com**
+- 📫 How to reach me: **guillaumebretel@gmail.com**
 
 - I am very curious and love to learn new things so don't hesitate if you want to exchange ! 😄😄
 
