@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillaume Bretel</h1>
 <h3 align="center">Data scientist and doctor in chemistry</h3>
 
-- 🔭 I’m currently working on [Prediction of melting points of molecules](Soon)
+- 🔭 I’m currently working on [Prediction of melting points of molecules] 🌡 (Soon)
 
 - 🌱 I’m currently learning **Japanese, Julia**
 
