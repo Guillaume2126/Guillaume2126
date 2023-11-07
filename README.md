@@ -2,7 +2,7 @@
 <hr style="height:2px; background-color:#add8e6">
 <h3 align="center">Data scientist and doctor in chemistry</h3>
 
-- 🔭 I’m currently working on [Prediction of melting points of molecules 🌡🫧](../Melting-point-predictor)
+- 🔭 I’m currently working on [Prediction of melting points of molecules 🌡🫧](https://github.com/Guillaume2126/Melting-point-predictor)
 
 - 🌱 I’m currently learning **Japanese 🎌, Julia**
 
